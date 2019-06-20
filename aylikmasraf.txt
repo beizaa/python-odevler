@@ -1,0 +1,7 @@
+180
+100
+20
+20
+20
+Aylik toplam masrafiniz 160 euro kadardir.
+Aylik gider miktarinizin aylik gelirinze orani: 0.8888888888888888 dir.
