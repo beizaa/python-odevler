@@ -1,0 +1,7 @@
+Ogrenci not ortalama programi
+beyza
+aydin
+100
+100
+20
+Yil sonu puani: 100.0
