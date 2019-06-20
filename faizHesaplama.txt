@@ -1,0 +1,7 @@
+100
+1
+2
+Toplam faiz tutari: 2.0 dir.
+Aylik ortalama faiz tutari: 0.16666666666666666 dir.
+Gunluk ortalama fazi tutari: 0.005479452054794521 tir.
+Toplam para miktari: 102.0 dir.
